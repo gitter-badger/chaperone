@@ -1,6 +1,8 @@
 Chaperone: A lean init-style startup manager for Docker-like containers
 -----------------------------------------------------------------------
 
+[![Join the chat at https://gitter.im/garywiz/chaperone](https://badges.gitter.im/garywiz/chaperone.svg)](https://gitter.im/garywiz/chaperone?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a lean, full-featured process which runs at the root of a docker
 container tree.
 
